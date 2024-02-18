@@ -1,0 +1,8 @@
+name: Morphs
+version: 1.0
+author: Rewu
+main: me.rewu.morphs.Main
+api-version: 1.19
+commands:
+  m:
+    description: Head command of the plugin Morphs.
